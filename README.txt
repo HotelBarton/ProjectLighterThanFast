@@ -15,3 +15,6 @@ Game Specs:
   Crafting
   Backstory (Jacob)
   Multiplayer
+Possible Game Engines and other Software
+	http://roguecentral.org/doryen/
+	http://invisible-island.net/ncurses/
