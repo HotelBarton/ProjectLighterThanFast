@@ -2,7 +2,7 @@
 
 \#Barton2B4Lyfe
 
-Game Specs:
+#### Game Specs:
   - C++
   - ASCII
   - 2D
@@ -16,15 +16,16 @@ Game Specs:
   - Backstory (Jacob)
   - Multiplayer
 
-Possible Game Engines and other Software:
+#### Possible Game Engines and other Software:
 - http://roguecentral.org/doryen/
+  - Tutorial: http://codeumbra.eu/complete-roguelike-tutorial-using-c-and-libtcod-part-1-setting-up
 - http://invisible-island.net/ncurses/
 
-Linux compile cmd:
+#### Linux compile cmd:
 ```
 g++ src/*.cpp -o ProjectLighterThanFast -Iinclude -L. -ltcod -ltcodxx
 ```
-Linux dependencies:
+#### Linux dependencies:
 - g++
 - gdb
 - libsdl1.2debian
