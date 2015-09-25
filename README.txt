@@ -20,7 +20,7 @@ Possible Game Engines and other Software
 	http://invisible-island.net/ncurses/
 
 Linux compile cmd:
-  g++ src/*.cpp -o ProjectLighterThanFast -Iinclude -L. -ltcod -ltcodxx -Wl,-rpath=.
+  g++ src/*.cpp -o ProjectLighterThanFast -Iinclude -L. -ltcod -ltcodxx
 
 Linux dependencies
 g++
