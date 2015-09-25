@@ -18,3 +18,11 @@ Game Specs:
 Possible Game Engines and other Software
 	http://roguecentral.org/doryen/
 	http://invisible-island.net/ncurses/
+
+Linux compile cmd:
+  g++ src/*.cpp -o ProjectLighterThanFast -Iinclude -L. -ltcod -ltcodxx -Wl,-rpath=.
+
+Linux dependencies
+g++
+gdb
+libsdl1.2debian
